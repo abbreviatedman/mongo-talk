@@ -1,5 +1,5 @@
 ---
-theme: league
+[The slidedeck version of this page.](http://ga-intro-to-mongo.surge.sh)
 ---
 
 # MongoDB
@@ -77,7 +77,7 @@ One of the pain points of relational databases is setting up and maintaining _al
 
 ![silly inception gif](./embed.gif)
 
-(You'll see how this is done later.)
+(We'll see how this is done later.)
 
 ## Enter The Jargondome!
 
@@ -89,4 +89,4 @@ A Comparison Of SQL And MongoDB Terms/Concepts
 
 ## Let's try it out!
 
-![a cat tping away](./cat-coding.gif)
+![a cat typing away](./cat-coding.gif)
